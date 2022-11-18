@@ -17,8 +17,8 @@ public class ProjectPractice {
         driver.get("https://www.flipkart.com/");
         
         
-    driver.findElement(By.xpath("//input[@class='_2IX_2- VJZDxU']")).sendKeys("9405988301");
-    driver.findElement(By.xpath("//input[@class='_2IX_2- _3mctLh VJZDxU']")).sendKeys("akii1234");
+    driver.findElement(By.xpath("//input[@class='_2IX_2- VJZDxU']")).sendKeys("66");
+    driver.findElement(By.xpath("//input[@class='_2IX_2- _3mctLh VJZDxU']")).sendKeys("99");
     driver.findElement(By.xpath("//button[@class='_2KpZ6l _2HKlqd _3AWRsL']")).click();
      
 	}
